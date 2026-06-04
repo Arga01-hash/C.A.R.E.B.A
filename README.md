@@ -24,6 +24,6 @@ Because this is a decoupled system, the source code is divided into two parts:
 
 ## 👥 The Team (Group 4)
 - **Argazora Ziya Anindya** - Project Manager & IoT System | [@Arga01-hash](https://github.com/Arga01-hash)
-- **Muh. Fathur** - Front-End & Web Dashboard | [@USERNAME_GITHUB_FATHUR](https://github.com/USERNAME_GITHUB_FATHUR)
+- **Muh. Fathur** - Front-End & Web Dashboard | [andimuhfathur](https://github.com/andimuhfathur)
 - **Geovani Tumbo** - Hardware & Electronics
 - **Nelma Estrela** - Prototype Implementation
